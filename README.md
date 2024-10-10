@@ -1,7 +1,7 @@
 # Embedded Struct & Struct Package Example
 
 ### Overview
-This example of a Go program demonstrates the use of an embedded struct and a struct package. The embeded struct acts as a scaffold for a newly created struct to build upon and use its existing fields.
+This example of a Go program demonstrates the use of an embedded struct and a struct package. The embedded struct acts as a scaffold for a newly created struct to build upon and use its existing fields.
 
 ### Program manual
 When run, the user will be presented with choices of action to choose from by inputting a number preceeding the action of choice. The choices include editing data, displaying data, and clearinng data for both student and teacher. Once and operation is performed, the user will be aske to confirm to continue performing another operation or exiting the program by inputting "Y" or "N" (case-insensitive).
